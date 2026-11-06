@@ -34610,18 +34610,22 @@ MonoBehaviour:
   downSprites:
   - {fileID: -1808040090, guid: cc128926951e4ea4c84888538bf30ccb, type: 3}
   - {fileID: -637685449, guid: cc128926951e4ea4c84888538bf30ccb, type: 3}
+  - {fileID: -1808040090, guid: cc128926951e4ea4c84888538bf30ccb, type: 3}
   - {fileID: 814858779, guid: cc128926951e4ea4c84888538bf30ccb, type: 3}
   upSprites:
   - {fileID: -1562584358, guid: cc128926951e4ea4c84888538bf30ccb, type: 3}
   - {fileID: -2098759719, guid: cc128926951e4ea4c84888538bf30ccb, type: 3}
+  - {fileID: -1562584358, guid: cc128926951e4ea4c84888538bf30ccb, type: 3}
   - {fileID: 520811939, guid: cc128926951e4ea4c84888538bf30ccb, type: 3}
   leftSprites:
   - {fileID: 457441449, guid: cc128926951e4ea4c84888538bf30ccb, type: 3}
   - {fileID: -314936574, guid: cc128926951e4ea4c84888538bf30ccb, type: 3}
+  - {fileID: 457441449, guid: cc128926951e4ea4c84888538bf30ccb, type: 3}
   - {fileID: 1723619631, guid: cc128926951e4ea4c84888538bf30ccb, type: 3}
   rightSprites:
   - {fileID: 983997158, guid: cc128926951e4ea4c84888538bf30ccb, type: 3}
   - {fileID: 432937992, guid: cc128926951e4ea4c84888538bf30ccb, type: 3}
+  - {fileID: 983997158, guid: cc128926951e4ea4c84888538bf30ccb, type: 3}
   - {fileID: 1280368489, guid: cc128926951e4ea4c84888538bf30ccb, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
